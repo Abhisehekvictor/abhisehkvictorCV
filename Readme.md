@@ -1,6 +1,6 @@
 Project Details:
 CV Project Where we have used semantic element of html and optimise for seo purpose 
-This is a simple project with little detail about our resume
+This is a simple project with little detail about our resume.
 Soon, or later, we will add css part in this
 
 
