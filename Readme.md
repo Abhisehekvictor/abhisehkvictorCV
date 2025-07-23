@@ -2,7 +2,7 @@ Project Details:
 CV Project Where we have used semantic element of html and optimise for seo purpose 
 This is a simple project with little detail about my resume
 
-Project url: https://github.com/Abhisehekvictor/abhisehkvictorCV
+Project url: https://roadmap.sh/projects/single-page-cv
 
 Key requirements for this project:
 
